@@ -64,3 +64,4 @@ The following events are supported:
 
 ## Showing multiple ads 
 If you wish to show more than one ad on your app, you can easily do so by creating multiple instances of `OwAd`. Just make sure you pass a different container element for each instance.
+Important note: You can only have one video ad running at a given time. Please make sure you've addressed this when planning the application's flow and PRD.
